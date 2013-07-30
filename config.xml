@@ -1,5 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
-<widget id="org.camden.notebook" version="2.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+	xmlns:gap = "http://phonegap.com/ns/1.0"
+	id        = "in.kitnahua.weather"
+	version   = "2.7.0">
+
     <name>Notebook</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
